@@ -1,6 +1,10 @@
 # Research-Review
 ## Mind Map
-To be updated
+Semi-supervised Classification 
+<img width="856" alt="image" src="https://user-images.githubusercontent.com/49426295/159474651-647d7ee9-5795-4c03-a5dd-bd1d5ec8f59e.png">
+
+Semi-supervised Segmentation
+（To be updated）
 ## Method Comparison
 #### Semi-supervised Learning Classification (2020-Now)
 | Conference | Method | Task | Basic Structure | HighLight |
@@ -19,8 +23,8 @@ To be updated
 #### Semi-supervised Learning Segmentation (2020-Now)
 | Conference | Method | Task | Basic Structure | HighLight |
 | :-------------: | :-------------: | :-------------: | :-------------: |:-------------: |
-|NIPS 2021|[AEL](https://arxiv.org/pdf/2110.05474v1.pdf)|Segmentation|T-S| Adaptive CutMix & Adaptive Copy-Paste & Adaptive equalization sampling|
-|CVPR 2021|[DCC]()
+|NIPS 2021|[AEL](https://arxiv.org/pdf/2110.05474v1.pdf)|Segmentation|T-S| Adaptive CutMix & Adaptive Copy-Paste & **Adaptive equalization sampling**|
+|CVPR 2021|[DCC](https://arxiv.org/pdf/2106.14133v1.pdf)|Segmentation|Consistency|maintain the **context-aware consistency** between features of the same identity but with different contexts|
 |CVPR 2022|[UUPL](https://arxiv.org/pdf/2203.03884)|Segmentation|T-S| Make **unreliable** pixels as **negative samples**|
 ## Recent Papers (2022)
 The latest literature review includes semi-supervised learning, knowledge distillation, ViT, etc.
