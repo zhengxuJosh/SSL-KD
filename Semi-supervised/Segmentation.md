@@ -1,7 +1,7 @@
 ## Semi-supervised Segmentation
 （To be updated）
 
-## Method Comparison
+## Paper Summary
 
 #### Semi-supervised Learning Segmentation (2020-Now)
 | Conference | Method | Task | Basic Structure | HighLight |
