@@ -1,4 +1,4 @@
-# Research-Review
+# Research-Overview
 ## Mind Map
 Semi-supervised Classification 
 <img width="856" alt="image" src="https://user-images.githubusercontent.com/49426295/159474651-647d7ee9-5795-4c03-a5dd-bd1d5ec8f59e.png">
