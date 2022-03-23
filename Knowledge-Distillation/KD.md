@@ -1,4 +1,4 @@
-
+# Papers
 | Domian | Conference | Title | Code |
 | :-------------: | :-------------: | :-------------: | :-------------: | 
 |KD| CVPR 2022 | [Wavelet Knowledge Distillation: Towards Efficient Image-to-Image Translation](https://arxiv.org/pdf/2203.06321)||
