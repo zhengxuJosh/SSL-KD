@@ -9,7 +9,8 @@ Comparison with SoTA methods on blender **PASCAL VOC 2012** val set under differ
 |[CPS](https://arxiv.org/pdf/2106.01226v2.pdf)|CVPR 2021|Dual & Cross Pseudo Label|68.21|73.20|74.24|75.91|
 |[DCC](https://arxiv.org/pdf/2106.14133v1.pdf)|CVPR 2021|Directional Pixels Contrastive|-|69.70|72.70|-|
 |[AEL](https://arxiv.org/pdf/2110.05474v1.pdf)|NeurIPS 2021|Teacher-Student & Adaptive Sampling|75.83|77.90|79.01|80.28|
-|[U2PL](https://arxiv.org/pdf/2203.03884v2.pdf)||
+|[U2PL](https://arxiv.org/pdf/2203.03884v2.pdf)|CVPR 2022|Teacher-Student & Contrastive|77.21|79.01|79.30|80.50|
+|[ReCo](https://arxiv.org/pdf/2104.04465v4.pdf)|ICLR 2022|Regional Contrast|-|-|-|-|
 ## Paper Summary
 
 #### Semi-supervised Learning Segmentation (2020-Now)
