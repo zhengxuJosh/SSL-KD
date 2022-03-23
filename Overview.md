@@ -1,41 +1,13 @@
 # Research-Overview
-## Mind Map
-Semi-supervised Classification 
-<img width="856" alt="image" src="https://user-images.githubusercontent.com/49426295/159474651-647d7ee9-5795-4c03-a5dd-bd1d5ec8f59e.png">
+## Conference Deadline:
+| Conference | Submission Deadline |
+| :------------- | :------------- | 
+|NeurIPS 2022|2022/05/16 01:00 PM PDT|
+|AAAI 2023|2022/09 TBD|
+|CVPR 2023|2022/11 TBD|
 
-Semi-supervised Segmentation
-（To be updated）
-## Method Comparison
-#### Semi-supervised Learning Classification (2020-Now)
-| Conference | Method | Task | Basic Structure | HighLight |
-| :-------------: | :-------------: | :-------------: | :-------------: |:-------------: |
-|ICML 2020|[SimCLR](https://arxiv.org/pdf/2002.05709v3.pdf)|Classification|Contrastive|Maximize agreement between **differently augmented example**|
-|NIPS 2020|[FixMatch](https://arxiv.org/pdf/2001.07685)|Classification|Pseudo Label|**Combination** of **Consistency regularization** and **pseudo-labeling**|
-|NIPS 2020|[UDA](https://arxiv.org/pdf/1904.12848v6.pdf)|Classification|Consistency|How to augment **unlabeled data**|
-|ECCV 2020|[FeatMatch](https://arxiv.org/pdf/2007.08505v1.pdf)|Classification|Consistency|**Feature-Based** Augmentation and Consistency|
-|NIPS 2021|[FlexMatch](https://arxiv.org/pdf/2110.08263.pdf)|Classification|Pseudo Label|Propose **CPL** to flexibly adjust thresholds for pseudo-labeling|
-|ICLR 2021|[UPS](https://arxiv.org/pdf/2101.06329v3.pdf)|Classification|Pseudo Label|Improves pseudo labeling accuracy by uncertainty|
-|ICCV 2021|[CoMatch](https://arxiv.org/pdf/2011.11183v2.pdf)|Classification|Pseudo Label|Contrastive bewteen **class probabilities** and **low-dimensional embeddings**|
-|CVPR 2021|[MetaPL](https://arxiv.org/pdf/2003.10580v4.pdf)|Classification|T-S|Use performance of Student on labeled data to **update** Teacher|
-|CVPR 2021|[SimCo](https://arxiv.org/pdf/2104.05248v1.pdf)|Classification|Pseudo Label|**Condition pseudo-labeling** on class similarities **prior knowledge**|
-|CVPR 2021|[SimPLE](https://arxiv.org/pdf/2103.16725v1.pdf)|Classification|Pseudo Label|Minimize distance between **high confidence pseudo labels**|
-|CVPR 2022|[SimMatch](https://arxiv.org/pdf/2203.06915)| Classification | Pseudo Label | Leverage **semantic and instance level** pseudo-label|
-
-#### **“xxxMatch” Series**
-<img width="1858" alt="image" src="https://user-images.githubusercontent.com/49426295/159506626-7b25bda3-8dcc-4d01-8711-5961d6ea76f6.png">
-
-#### Semi-supervised Learning Segmentation (2020-Now)
-| Conference | Method | Task | Basic Structure | HighLight |
-| :-------------: | :-------------: | :-------------: | :-------------: |:-------------: |
-|ICCV 2021|[PixelCL](https://arxiv.org/pdf/2104.13415v3.pdf)|Segmentation|T-S|**Contrastive** learning module: yield similar pixel-level feature representations for same-class samples|
-|ICCV 2021|[DSBN](https://arxiv.org/pdf/2104.07256v4.pdf)|Segmentation|T-S|**Strong Augmentation**: Distribution-specific batch normalization|
-|NIPS 2021|[AEL](https://arxiv.org/pdf/2110.05474v1.pdf)|Segmentation|T-S| Adaptive CutMix & Adaptive Copy-Paste & **Adaptive equalization sampling**|
-|CVPR 2021|[DCC](https://arxiv.org/pdf/2106.14133v1.pdf)|Segmentation|Consistency|maintain the **context-aware consistency** between features of the same identity but with different contexts|
-|CVPR 2021|[CPS](https://arxiv.org/pdf/2106.01226v2.pdf)|Segmentation|Pseudo Label|**Cross Pseudo Supervision**|
-|CVPR 2022|[UUPL](https://arxiv.org/pdf/2203.03884)|Segmentation|T-S| Make **unreliable** pixels as **negative samples**|
-|ICLR 2022|[ReCo](https://arxiv.org/pdf/2104.04465v4.pdf)|Segmentation||**Pixel-level** contrastive framework |
-## Recent Papers (2022)
-The latest literature review includes semi-supervised learning, knowledge distillation, ViT, etc.
+## Paper List (2022)
+The latest papers includes semi-supervised learning, knowledge distillation, ViT, etc.
 | Domian | Conference | Title | Code |
 | :-------------: | :-------------: | :-------------: | :-------------: | 
 |Semi| CVPR 2022 | [Class-Aware Contrastive Semi-Supervised Learning](https://arxiv.org/pdf/2203.02261)||
