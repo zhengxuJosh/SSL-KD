@@ -6,6 +6,9 @@
 |AAAI 2023|2022/09 TBD|
 |CVPR 2023|2022/11 TBD|
 
+[Semi-supervised Learning]()
+[Knowledge Distillation]()
+
 ## Paper List (2022)
 The latest papers includes semi-supervised learning, knowledge distillation, ViT, etc.
 | Domian | Conference | Title | Code |
