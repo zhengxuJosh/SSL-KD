@@ -6,8 +6,8 @@
 |AAAI 2023|2022/09 TBD|
 |CVPR 2023|2022/11 TBD|
 
-[Semi-supervised Learning]()
-[Knowledge Distillation]()
+[Semi-supervised Learning](https://github.com/JoshZheng/Research-Review/tree/main/Semi-supervised)
+[Knowledge Distillation](https://github.com/JoshZheng/Research-Review/tree/main/Knowledge-Distillation)
 
 ## Paper List (2022)
 The latest papers includes semi-supervised learning, knowledge distillation, ViT, etc.
