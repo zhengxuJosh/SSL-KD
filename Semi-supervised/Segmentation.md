@@ -11,6 +11,7 @@ Comparison with SoTA methods on blender **PASCAL VOC 2012** val set under differ
 |[AEL](https://arxiv.org/pdf/2110.05474v1.pdf)|NeurIPS 2021|Teacher-Student & Adaptive Sampling|75.83|77.90|79.01|80.28|
 |[U2PL](https://arxiv.org/pdf/2203.03884v2.pdf)|CVPR 2022|Teacher-Student & Contrastive|77.21|79.01|79.30|80.50|
 |[ReCo](https://arxiv.org/pdf/2104.04465v4.pdf)|ICLR 2022|Regional Contrast|-|-|-|-|
+|TCC||ViT&CNN cohrt|81.36|83.42|84.27|84.29|
 ## Paper Summary
 
 #### Semi-supervised Learning Segmentation (2020-Now)
