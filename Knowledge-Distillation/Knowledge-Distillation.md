@@ -1,7 +1,3 @@
-## Method Comparison
-| Domian | Conference | Title | Code |
-| :-------------: | :-------------: | :-------------: | :-------------: | 
-
 ## Paper Summary
 | Domian | Conference | Title | Code |
 | :-------------: | :-------------: | :-------------: | :-------------: | 
